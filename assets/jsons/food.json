@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Yellow cake",
+    "image": "assets/images/product/product-1.jpg",
+    "price": 12000,
+    "store": "Agus Bakery",
+    "rating": 4.0,
+    "favourite": false
+  }
+]

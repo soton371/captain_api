@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Cosmic bang",
+    "image": "assets/images/product/product-7.jpg",
+    "price": 12000,
+    "store": "Den Cosmics",
+    "rating": 4.5,
+    "favourite": false
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "icon": "MdiIcons.cartOutline",
+    "title": "Grocery"
+  },
+  {
+    "icon": "MdiIcons.hanger",
+    "title": "Cloth"
+  },
+  {
+    "icon": "MdiIcons.glassWine",
+    "title": "Liquor"
+  },
+  {
+    "icon": "MdiIcons.food",
+    "title": "Food"
+  }
+]

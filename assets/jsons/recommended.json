@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Sweet Gems",
+    "image": "assets/images/product/product-5.jpg",
+    "price": 14780,
+    "store": "El Primo",
+    "rating": 3.5,
+    "favourite": false
+  },
+  {
+    "name": "Lipsticks",
+    "image": "assets/images/product/product-4.jpg",
+    "price": 14785,
+    "store": "Bee Lipstore",
+    "rating": 4.0,
+    "favourite": false
+  },
+  {
+    "name": "Candies",
+    "image": "assets/images/product/product-3.jpg",
+    "price": 14785,
+    "store": "Bee Lipstore",
+    "rating": 4.5,
+    "favourite": false
+  }
+]

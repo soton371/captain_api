@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Toffees",
+    "image": "assets/images/product/product-2.jpg",
+    "price": 12500,
+    "store": "Toffee Bakery",
+    "rating": 5.0,
+    "favourite": false
+  }
+]
